@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm PoYuChao</h1>
-<h3 align="center">Hello, this is Po, I am a passionate programmer. Driven by the mantra "Happy coding, happy life".</h3>
+<h3 align="center">Hello, this is Po, I am a passionate programmer. Driven by the mantra "Happy coding, Happy Life".</h3>
 <img align ="right" alt="coding" width="400" src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b9523drvtiv4318dipmnfcd85jtnvtbdc5vu0pvtawlg&ep=v1_gifs_search&rid=200w.gif&ct=g">
 - 🌱 I’m currently learning **Vue,TS**
 
