@@ -6,7 +6,7 @@
 - 👨‍💻 All of my projects are available at  
  https://po-yu-portfolio-website.vercel.app
 
-- 💬 Ask me about **NextJs, React, JS**
+- 💬 Ask me about **NextJs, React, JS, Python**
 
 - 📫 How to reach me **pchao@seattleu.edu**
 
