@@ -1,14 +1,10 @@
 <h1 align="center">Hi 👋, I'm PoYu Chao</h1>
 <h3 align="center">Hello, this is Po, I am a passionate programmer. Driven by the mantra "Happy coding, Happy Life".</h3>
 <img align ="right" alt="coding" width="400" src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b9523drvtiv4318dipmnfcd85jtnvtbdc5vu0pvtawlg&ep=v1_gifs_search&rid=200w.gif&ct=g">
-- 🌱 I’m currently learning **Vue,TS**
-
-- 👨‍💻 All of my projects are available at  
- https://po-yu-portfolio-website.vercel.app
 
 - 💬 Ask me about **NextJs, React, JS, Python**
 
-- 📫 How to reach me **pchao@seattleu.edu**
+- 📫 How to reach me **pc732@nau.edu**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1coNdRbPpTSKYkkO-LiSqmU_xGQZ-Mets/view?usp=drive_link](https://drive.google.com/file/d/1coNdRbPpTSKYkkO-LiSqmU_xGQZ-Mets/view?usp=drive_link)
 
