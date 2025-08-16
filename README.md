@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **pc732@nau.edu**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1coNdRbPpTSKYkkO-LiSqmU_xGQZ-Mets/view?usp=drive_link](https://drive.google.com/file/d/1coNdRbPpTSKYkkO-LiSqmU_xGQZ-Mets/view?usp=drive_link)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1coNdRbPpTSKYkkO-LiSqmU_xGQZ-Mets/view?usp=drive_link](https://drive.google.com/file/d/1coNdRbPpTSKYkkO-LiSqmU_xGQZ-Mets/view?usp=drive_link)](https://drive.google.com/file/d/1btI_SkIo_mrEi1If-DQJuQ_nVMsSH98F/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
