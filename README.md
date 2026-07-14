@@ -18,7 +18,7 @@
 - 💬 Ask me about **Python, LLM, LangChain, Embedding, Prompt Engineering, RAG, Next.js, React, JS**
 - 📄 Know about my experiences
 - 🔭 What I'm currently working on → [**ResumePilot**](https://resumepilot-frontend-338336680245.asia-east1.run.app)
--  Youtube Channel: https://www.youtube.com/channel/UCJ4EUQU5jhFP5GRECCBVcJw
+-  Youtube Channel- Mini Finance: https://www.youtube.com/channel/UCJ4EUQU5jhFP5GRECCBVcJw
 
 ---
 
